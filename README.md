@@ -1,2 +1,5 @@
 # springbootTest
 NTUST_2020DBMS_SpringbootTest
+
+此次測試是我用Intellij IDEA這個IDE建立起來的，它內建有maven跟一些springboot,JPA,h2..等等相關的dependcy可用很方便。
+裡面有基本的repo繼承、透過controller的CRUD，體驗一下api的寫法，記得搭配postman服用，才能送出post request做測試。
